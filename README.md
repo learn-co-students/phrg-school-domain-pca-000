@@ -104,4 +104,7 @@ Note that since hashes are unordered by nature, the order of the keys does not m
 ## Resources
 * [StackOverflow](http://stackoverflow.com/) - [What does ||= (or equals) mean in Ruby?](http://stackoverflow.com/questions/995593/what-does-or-equals-mean-in-ruby)
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-school-domain/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-school-domain/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Domain Model for a School</p>
